@@ -56,9 +56,3 @@ Responsive UI design
 📜 License
 
 This project is open-source and free to use.
-
-If you want, I can also:
-✅ Add GitHub badges
-✅ Add screenshots section
-✅ Convert it into a professional portfolio README
-✅ Or generate a live demo deployment guide (Netlify / Vercel)
