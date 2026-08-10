@@ -55,3 +55,5 @@ DOM manipulation
 Responsive UI design
 
 This project is open-source and free to use.
+
+This project will tell the many weather parameters of any country and their states that we searched on Weather Dashboard.
