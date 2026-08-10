@@ -53,6 +53,5 @@ Created as a learning project to practice:
 API integration
 DOM manipulation
 Responsive UI design
-📜 License
 
 This project is open-source and free to use.
